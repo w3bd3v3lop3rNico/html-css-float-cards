@@ -35,6 +35,10 @@ img {
     padding-left: 100px;
     padding-right: 100px;
 }
+.bg-color {
+    background-color: #0F0E17;
+    color: white;
+}
 /* title */
 
 .title {
@@ -47,19 +51,11 @@ img {
 
 
 .card {
-    height: 200px;
     float: left;
     width: calc((100% / 3) - 20px);
     margin: 15px 10px;
 }
 
-.odd {
-    background-color: blue;
-}
-
-.even {
-    background-color: red;
-}
 
 /* FOOTER */
 
