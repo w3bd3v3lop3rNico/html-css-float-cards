@@ -28,6 +28,9 @@ img {
     display: block;
     clear: both;
 }
+/* MAIN */
+
+/* FOOTER */
 
 /* DEBUG */
 
@@ -39,12 +42,16 @@ img {
 
 }
 
+.debug .main {
+
+}
+
 .debug .column {
 
 }
 
 .debug .card {
-
+width: calc(100%/6);
 }
 
 .debug .footer {
