@@ -91,7 +91,17 @@ img {
     padding-bottom: 30px;
 }
 
+.card .name-card {
+    padding-top: 6px;
+}
 
+
+.upside-card {
+    margin-bottom: 20px;
+}
+.down-card {
+    margin-top: 20px;
+}
 
 
 /* FOOTER */
